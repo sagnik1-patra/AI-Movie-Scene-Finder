@@ -1,0 +1,18 @@
+{
+    "accuracy": 1.0,
+    "confusion_matrix": [
+        [
+            1,
+            0
+        ],
+        [
+            0,
+            1
+        ]
+    ],
+    "samples": 5,
+    "label_distribution": {
+        "0": 2,
+        "1": 3
+    }
+}

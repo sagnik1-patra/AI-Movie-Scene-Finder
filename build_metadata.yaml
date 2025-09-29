@@ -1,0 +1,16 @@
+generated_on: '2025-09-29T12:30:04.530636'
+inputs:
+- 1.mp4+1.txt
+- 2.mp4+2.txt
+- 3.mp4+3.txt
+- 4.mp4+4.txt
+- 5.mp4+5.txt
+outputs:
+  accuracy_plot: C:\Users\NXTWAVE\Downloads\AI Movie Scene Finder\visuals\accuracy.png
+  confusion_matrix: C:\Users\NXTWAVE\Downloads\AI Movie Scene Finder\visuals\confusion_matrix.png
+  h5: C:\Users\NXTWAVE\Downloads\AI Movie Scene Finder\processed_video.h5
+  json: C:\Users\NXTWAVE\Downloads\AI Movie Scene Finder\insights.json
+  mood_model: C:\Users\NXTWAVE\Downloads\AI Movie Scene Finder\mood_model.pkl
+  scene_model: C:\Users\NXTWAVE\Downloads\AI Movie Scene Finder\scene_model.pkl
+  yaml: C:\Users\NXTWAVE\Downloads\AI Movie Scene Finder\build_metadata.yaml
+project: SceneSense
